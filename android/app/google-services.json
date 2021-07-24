@@ -1,0 +1,407 @@
+{
+  "project_info": {
+    "project_number": "974845098835",
+    "firebase_url": "https://whatschat-99ca0.firebaseio.com",
+    "project_id": "whatschat-99ca0",
+    "storage_bucket": "whatschat-99ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:26ee5a166746f262",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:bff98b5e03d9554b",
+        "android_client_info": {
+          "package_name": "co.xeneous.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:203ec7cf9c19ebe1",
+        "android_client_info": {
+          "package_name": "com.codingwithflutter.firebase_auth_demo_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-4gnvp084n8hpe6ii38csi1t6hba53n4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithflutter.firebase_auth_demo_flutter",
+            "certificate_hash": "a26bc8be03ead58150b2aecadc3f2357853c72af"
+          }
+        },
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:c9ea67f684ba5604a73fa6",
+        "android_client_info": {
+          "package_name": "com.xeneous.allwaysisnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-a73c13k7vdhrcl9qp07jj25ajhchtdru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeneous.allwaysisnow",
+            "certificate_hash": "13ff9dc85b76666eed8d756b97aa5a7e6c838864"
+          }
+        },
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:a2f1327b08ef5b33a73fa6",
+        "android_client_info": {
+          "package_name": "com.xeneous.base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-91jc7n6h3m7u2kbs7pnl1vmunsrt7ubo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeneous.base",
+            "certificate_hash": "a26bc8be03ead58150b2aecadc3f2357853c72af"
+          }
+        },
+        {
+          "client_id": "974845098835-d9iseo7r41j3boetl2uo499inu5l5oup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeneous.base",
+            "certificate_hash": "13ff9dc85b76666eed8d756b97aa5a7e6c838864"
+          }
+        },
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:f1f5a05f7eeddba0",
+        "android_client_info": {
+          "package_name": "com.xeneous.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-80eqa6s7etubn85ia617evffurmd6i2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeneous.chatsapp",
+            "certificate_hash": "ae3e95a5772fbc3e27ba636379f26131162dd9fc"
+          }
+        },
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:cb729a692334be13",
+        "android_client_info": {
+          "package_name": "com.xeneous.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-dd5h8u3j51tm6no3albd9n46jpct64d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeneous.firebase_auth",
+            "certificate_hash": "ae3e95a5772fbc3e27ba636379f26131162dd9fc"
+          }
+        },
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:b496d206226f33d2a73fa6",
+        "android_client_info": {
+          "package_name": "com.xeneous.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-39o9liald63huvln3onc5itv3v8o2buo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeneous.flutter_app",
+            "certificate_hash": "ae3e95a5772fbc3e27ba636379f26131162dd9fc"
+          }
+        },
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845098835:android:96eca0703e3c4f51a73fa6",
+        "android_client_info": {
+          "package_name": "com.xeneous.organization_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974845098835-nrv8siarls9levf91edkq2h63lk5g2eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeneous.organization_app",
+            "certificate_hash": "d39eed62afa99906d8c0fed7168f626f77ac7fd0"
+          }
+        },
+        {
+          "client_id": "974845098835-9ji19kabngaadncq65bb16bcldqu4b01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeneous.organization_app",
+            "certificate_hash": "ae3e95a5772fbc3e27ba636379f26131162dd9fc"
+          }
+        },
+        {
+          "client_id": "974845098835-0fr53k6bfi3egu0t0l264k2f1atj624l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGN0IdsbwFZeFY34-sPHXAYWZ7vKz9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974845098835-6puit04j98ovmkkm7h384gull4h56177.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974845098835-7j73gueu9k0pj7893htj3mhie2qtqvqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xeneous.base"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
